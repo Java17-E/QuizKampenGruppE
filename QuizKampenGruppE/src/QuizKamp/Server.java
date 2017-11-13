@@ -12,6 +12,7 @@ public class Server {
     
     public Server() {
         System.out.println("Commit 3");
+        System.out.println("Richard testar");
         int portNr = 55556; 
         
         try (
